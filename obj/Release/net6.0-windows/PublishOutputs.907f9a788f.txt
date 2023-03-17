@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\CalculadoraBasica\Calculadora.exe
+C:\Users\Asus\Desktop\CalculadoraBasica\Calculadora.dll
+C:\Users\Asus\Desktop\CalculadoraBasica\Calculadora.deps.json
+C:\Users\Asus\Desktop\CalculadoraBasica\Calculadora.runtimeconfig.json
+C:\Users\Asus\Desktop\CalculadoraBasica\Calculadora.pdb
